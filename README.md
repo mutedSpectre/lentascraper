@@ -1,6 +1,8 @@
 Instruction for install crawler
 -------------------------------
 
+Main code in lentrascraper/spiders/lenta_ru_spider.py
+
 <b>1</b>. In order to start working with a web crawler, you need to install the <b>pip</b> dependencies:
   - scrapy
   - datetime
