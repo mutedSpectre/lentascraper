@@ -26,7 +26,7 @@ At the same time, it is completely optional to indicate these parameters. Then a
 
 Example:
     
-    $ scrapy crawl lentascraper -o ~/lentascraper/output.json -a rubric=russia -a date=2020/02/20 
+    $ scrapy crawl lentascraper -o output.json -a rubric=russia -a date=2020/02/20 
     
 Where:
   - lentascraper - spider name (~/lentascraper/lentascraper/spider/lenta_ru_spider.py)
