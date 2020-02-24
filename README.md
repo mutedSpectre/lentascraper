@@ -29,7 +29,7 @@ Example:
     $ scrapy crawl lentascraper -o output.json -a rubric=russia -a date=2020/02/20 
     
 Where:
-  - lentascraper - spider name (~/lentascraper/lentascraper/spider/lenta_ru_spider.py)
+  - lentascraper - spider name (/lentascraper/lentascraper/spider/lenta_ru_spider.py)
   - -o - option to specify output files (format can only be: json, jsonlines, jl, csv, xml, marshal, pickle)
   - -a - option to pass an attribute
   
